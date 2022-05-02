@@ -25,4 +25,4 @@ Once the results from the Final Watches (CSV & Parquet) files were assessed ther
 
 ## Last (CSV & Parquet)
 
-These files are the result of the Watch Editing Notebook. These are the results that were later used for the PySpark Notebook.
+These files are the result of the Watch Editing Notebook. 
