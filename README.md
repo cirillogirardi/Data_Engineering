@@ -3,6 +3,7 @@
 ## RDS Access
 
 Endpoint: dbwatches.cvzsgnwko6ng.eu-west-2.rds.amazonaws.com <br>
+Database: dbwatches <br>
 Port: 5432 <br>
 Master username: postgres <br>
 Password: qwerty123
