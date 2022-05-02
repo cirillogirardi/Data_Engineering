@@ -1,6 +1,16 @@
 # Apache Airflow
 
-This branch contains a python script and two pictures. 
+## Data Lineage 
+
+This picture depicts the data process utilized throughout the project.
+
+## Apache Diagram and Tree
+
+The two images Apache Diagram and Apache Tree, are screenshots from Apache Airflow respectively portraying the final graph and tree used to run the python script 'final_watches'.
+
+## S3 Bucket
+
+This picture depicts the files on AWS S3
 
 ## Final Watches
 
@@ -8,6 +18,3 @@ The python script 'final_watches' is the final script that was created utilizing
 
 The results of the Airflow pipeline are stored on S3. 
 
-## Apache Diagram and Tree
-
-The two images Apache Diagram and Apache Tree, are screenshots from Apache Airflow respectively portraying the final graph and tree used to run the python script 'final_watches'.
