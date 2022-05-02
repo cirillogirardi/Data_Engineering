@@ -27,7 +27,7 @@ The files contain the results for the web scraping conducted in the Wikipedia No
 
 ## Editing Notebook
 
-The notebook was used to conduct some data cleaning and some data transformations. Some tables were further merged in order to ensure their congruency with the Schema devised.
+The notebook was used to conduct some data cleaning and some data transformations for the data retrieved in folliwing notebooks: Company Information Notebook, Financial Information Notebook (present in the Company Information branch), Social Information Notebook (present in the Social Information branch) . Some tables were further merged in order to ensure their congruency with the Schema devised.
 
 ## More Information (CSV & Parquet)
 
