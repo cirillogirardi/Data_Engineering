@@ -15,13 +15,13 @@ The Chrono24 notebook contains the codes used to scrape the Chrono24 website. Ch
 
 The notebook is quite long because it includes different techniques used to try to scrape the information. At the end of the notebook there is a section titled 'Make Better'. The codes in this section were used for the final python script and consequentially for the scraping.
 
-## Final Watches (CSV & Parquet)
-
-These files are the result of the Chrono24 Notebook.
-
 ## Watch Editing Notebook
 
 Once the results from the Final Watches (CSV & Parquet) files were assessed there were certain features which required corrections. Consequentially, within the Watch Editing Notebook was devoted to making necessarry amendments to the files in order to ensure that the datapoints would fit within the schema designed without causing issues.
+
+## Final Watches (CSV & Parquet)
+
+These files are the result of the Chrono24 Notebook.
 
 ## Last (CSV & Parquet)
 
