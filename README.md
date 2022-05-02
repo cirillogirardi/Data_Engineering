@@ -1,5 +1,13 @@
 # Schema
 
+## RDS Access
+
+Endpoint: dbwatches.cvzsgnwko6ng.eu-west-2.rds.amazonaws.com
+Port: 5432
+Master username: postgres
+Password: qwerty123
+
+
 ## Data Lineage (PNG)
 
 The image portrays the data process envisioned for the project.
