@@ -6,7 +6,12 @@ The image portrays the data process envisioned for the project.
 
 ## Data PySpark Notebook
 
-The purpose of the notebook is twofold. The first part is dedicated to connecting to AWS RDS and uploading the relevant parquet files to the schema created. The second part of the notebook is dedicated to data analysis. Specifically, the second part is devoted to retrieving data from the RDS Database and applying machine learning models to test the usefulness of the data.
+The purpose of the notebook is twofold. The first part is dedicated to connecting to AWS RDS and uploading the relevant parquet files to the schema created. The second part of the notebook is dedicated to conducting basic SQL queries. Specifically, the second part is devoted to retrieving data from the RDS Database and merging various tables to create a unique file which can be used for explanatory data analysis and/ or machine learning.
+
+## Machine Learning Notebook
+
+This notebook uses the table created using SQL queries in the Data PySpark Notebook to conduct machine learning and solve the business solution initially posed. Specifically, the project wanted to use the data retrieved from the data sources in order to use the data to further understand how the watch industry functions. With the data retrieved it was possible to conduct a regression analysis to understand what major features drive aftermarket price.
+
 
 ## Watches (SQL & PDF)
 
